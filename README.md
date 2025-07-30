@@ -16,13 +16,11 @@ Ce projet est un exercice de validation des compétences de base en TypeScript. 
 
 ##  Structure
 
-```
 ts-checkpoint/
 ├── main.ts         // Fichier principal TypeScript
 ├── main.js         // Fichier compilé JavaScript
 ├── tsconfig.json   // Fichier de configuration TypeScript
 └── README.md
-```
 
 ##  Instructions d'exécution
 
